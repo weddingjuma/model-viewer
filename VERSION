@@ -1,0 +1,9 @@
+commit 0f7d2b9c4aeffa9fd32cb77d5249aa5c5930469f
+Author: Emmett Lalish <elalish@google.com>
+Date:   Thu May 14 15:51:38 2020 -0700
+
+    handle non-positive damper normalizer (#1212)
+    
+    * handle non-positive damper normalizer
+    
+    * added Damper test suite
